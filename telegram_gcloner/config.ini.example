@@ -1,7 +1,7 @@
 [General]
 path_to_gclone =
 
-telegram_token =5065173779:AAGTZdy6dL5N_Q9WiZRGjtCrrAj1xPSyoxY
+telegram_token = 5065173779:AAGTZdy6dL5N_Q9WiZRGjtCrrAj1xPSyoxY
 user_ids = 775874858
 group_ids = -1
 
